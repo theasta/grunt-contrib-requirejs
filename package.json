@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "requirejs": "~2.1.0"
+    "requirejs": "https://github.com/theasta/rjs/tarball/c96ba884d2e527035f57dd6e2b9dc24f192912ce"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.2.0",
